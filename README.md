@@ -20,3 +20,8 @@ One of the things I focused on while building this tool was making it simple and
 Working on this project gave me practical experience in cybersecurity concepts, especially the importance of file integrity. File integrity checking is widely used in industries like banking, healthcare, and software development to protect sensitive data. By building this tool, I learned how small changes in files can affect security and why monitoring files is important for any organization.
 During the development process, I faced challenges like handling large files efficiently, ensuring accurate hash calculations, and making the program easy to use. I solved these challenges by breaking the project into small modules, writing clear and organized code, and testing the tool thoroughly. I also made sure to include error handling, so the tool works smoothly even if something goes wrong, like a missing file or incorrect input.
 In short, the File Integrity Checker is a practical and educational project that combines Python programming with cybersecurity principles. It helps ensure that files remain safe and unchanged, which is a very important part of information security. Through this project, I not only improved my programming skills but also gained valuable knowledge about how security tools work in real-world applications. I feel this project is a great example of an internship-level task that is both useful and demonstrates technical skills, problem-solving abilities, and attention to detail.
+
+# OUTPUT 
+
+<img width="847" height="285" alt="Image" src="https://github.com/user-attachments/assets/a6fdae5b-75f1-4f8c-964f-dbbe7b9f1405" />
+
